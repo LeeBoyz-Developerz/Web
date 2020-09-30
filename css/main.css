@@ -1,0 +1,194 @@
+/*********************************
+
+Body styles
+
+************************************/
+
+body {
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: Verdana, Geneva, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+
+}
+
+#wrapper {
+
+    margin: 0px auto;
+    padding: 0px;
+    position: center;
+    line-height: 1.5em;
+    width: 100%;
+    max-width: 980px;
+    min-width: 250px;
+    flex-grow: 1;
+
+}
+
+/****************************************
+
+Main header
+
+*****************************************/
+
+#mainTitle {
+
+    text-align: center;
+    border: black 1px solid;
+    color: white;
+    font-size: 8em;
+    position: relative;
+    bottom: 180px;
+    
+}
+
+#mainPara {
+
+    text-align: right;
+    padding-right: 10px;
+    color: #0058a6;
+    font-size: 1.5em;
+    position: relative;
+    bottom: 250px;
+    right: 180px;
+    
+}
+
+#mainParaTwo {
+
+    text-align: left;
+    color: #0058a6;
+    font-size: 1.9em;
+    padding-left: 1040px;
+    position: relative;
+    bottom: 260px;
+    right: 100px;
+
+}
+
+/*********************************************
+
+Header and Navigation
+
+**********************************************/
+
+header nav {
+
+    text-align: center;
+    
+    
+}
+
+header nav ul {
+
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+    
+}
+
+header nav li {
+
+    display: inline-block;
+
+}
+
+header nav a {
+
+    font-weight: 800;
+    padding: 15px 40px;
+    text-decoration: none;
+    border: red 1px solid;
+    position: relative;
+    bottom: 150px;
+    color: white;
+    
+
+}
+
+
+
+/*******************************************
+
+Top nav
+
+*********************************************/
+
+.the-topnav {
+
+    border: purple 1px solid;
+    padding-top: 170px;
+    height: 100vh;
+    background-image: url('../img/desktop.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+/**********************************************
+
+Main content styles photography
+
+************************************************/
+
+.services-content {
+
+    border: 1px solid red;
+    position: relative;
+    top: 10px;
+    width: 100%;
+    display: table;
+   
+}
+
+.photography {
+
+    border: 1px solid blue;
+    width: 33.3%;
+    display: table-cell;
+    text-align: center;
+    
+}
+
+.domain-services {
+
+    border: 1px solid purple;
+    width: 33.3%;
+    display: table-cell;
+    text-align: center;
+
+}
+
+.websites {
+
+    border: 1px solid red;
+    width: 33.3%;
+    display: table-cell;
+    text-align: center;
+
+}
+
+/*************************************************
+
+Footer styles
+
+**************************************************/
+
+.main-footer {
+
+    text-align: center;
+    position: relative;
+    top: 30px;
+    font-size: 22px;
+    border: 1px solid red;
+   
+
+
+
+}
+
+
+
