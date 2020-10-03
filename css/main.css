@@ -12,6 +12,11 @@ body {
     font-family: Verdana, Geneva, sans-serif;
     font-family: 'Times New Roman', Times, serif;
     background-color: white;
+    background-image: url('../img/RightWhite.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
 
 }
 

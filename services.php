@@ -19,10 +19,10 @@
         <div id="wrapper">
             <div class="services-content">
                 <div class="photography">
-                    <p>content</p>
+                    <p>Photography</p>
                 </div>
                 <div class="domain-services">
-                    <p>content</p>
+                    <p></p>
                 </div>
                 <div class="websites">
                     <p>content</p>
