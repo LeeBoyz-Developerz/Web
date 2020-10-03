@@ -325,35 +325,7 @@
         <!--content:end-->
     </div>
 </div> <!-- end #page-content -->
-        <!-- Footer -->
-<footer id="footer" class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-lg-push-3 visible-lg">
-                <nav class="footer-main-nav">
-                    <ul>
-                        <li><a href="/Home/About">About</a></li>
-                        <li><a href="/Home/Pricing">Pricing</a></li>
-                        <li><a href="/Home/Services">Services</a></li>
-                        <li><a href="/Home/Blog">Blog</a></li>
-                        <li><a href="/Home/BlankPage">Team</a></li>
-                    </ul>
-                </nav> <!-- end .footer-main-nav -->
-            </div>
-            <div class="col-lg-3 col-sm-6 col-xs-7 col-lg-pull-6">
-                <h5 class="text-uppercase"></h5>
-                <p><a href="http://wiwet.com"></p>
-            </div>
-            <div class="col-lg-3 col-sm-6 col-xs-5 text-right">
-                <a href="http://wiwet.com" class="footer-logo">
-                    <img src="/Content/Images/wiwet-footer-logo.png" alt="">
-                </a> <!-- end .footer-logo -->
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- end #footer .footer -->
-    </div>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="~/Content/Scripts/jquery-2.1.4.min.js">\x3C/script>')</script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
