@@ -7,6 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
         <link href="css/main.css" rel="stylesheet" />
         <link href="css/media.css" rel="stylesheet" />
+        <link href="css/team.css" rel="stylesheet" />
         <!-- CSS only -->
         <title>LeeBoyz Developerz</title>     
     </head>
@@ -17,7 +18,18 @@
             </div>
         </header>
         <div id="wrapper">
-            
+            <h1 class="team">Who We are</h1>
+            <div class="team-content">
+                <div class="employeOne">
+                    <p>Pablo Benjumea</p>
+                </div>
+                <div class="employeTwo">
+                    <p>Mc Andy Louigene</p>
+                </div>
+                <div class="employeThree">
+                    <p>Jhoset Ceron</p>
+                </div>
+            </div>
         </div>
         <footer class="main-footer">
             <?php include("include/footer.html") ?>

@@ -22,10 +22,10 @@
                     <p>Photography</p>
                 </div>
                 <div class="domain-services">
-                    <p></p>
+                    <p>Domain Services</p>
                 </div>
                 <div class="websites">
-                    <p>content</p>
+                    <p>Websites</p>
                 </div>
             </div>
         </div>

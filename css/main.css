@@ -11,13 +11,10 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-family: Verdana, Geneva, sans-serif;
     font-family: 'Times New Roman', Times, serif;
-    background-color: white;
     background-image: url('../img/RightWhite.png');
     background-size: cover;
     background-repeat: no-repeat;
     
-
-
 }
 
 #wrapper {
@@ -176,6 +173,57 @@ Main content styles photography
 
 }
 
+/***********************************
+
+Team content styles
+
+************************************/
+
+.team-content {
+
+    border: 1px solid red;
+    position: relative;
+    top: 10px;
+    width: 100%;
+    display: table;
+
+}
+
+.employeOne {
+
+    border: 1px solid blue;
+    width: 33.3%;
+    display: table-cell;
+    text-align: center;
+
+}
+
+.employeTwo {
+
+    border: 1px solid purple;
+    width: 33.3%;
+    display: table-cell;
+    text-align: center;
+
+}
+
+.employeThree {
+
+    border: 1px solid red;
+    width: 33.3%;
+    display: table-cell;
+    text-align: center;
+
+}
+
+.team {
+
+    text-align: center;
+    font-size: 3em;
+
+
+}
+
 /*************************************************
 
 Footer styles
@@ -189,9 +237,6 @@ Footer styles
     top: 30px;
     font-size: 22px;
     border: 1px solid red;
-   
-
-
 
 }
 
