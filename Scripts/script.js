@@ -25,22 +25,21 @@ $( window ).resize(function() {
 
 // Header Search
 // ---------------------------------------------------------
-var $headerSearchForm = $('#header .header-search-form');
+// var $headerSearchForm = $('#header .header-search-form');
 
-$('.header-search-button').on('click', function (event) {
-  event.preventDefault();
+// $('.header-search-button').on('click', function (event) {
+//   event.preventDefault();
 
-  $body.addClass('header-search-form-active');
+//   $body.addClass('header-search-form-active');
 
-  setTimeout(function () {
-    $headerSearchForm.children('input[type="text"]').focus();
-  }, 500);
-});
+//   setTimeout(function () {
+//     $headerSearchForm.children('input[type="text"]').focus();
+//   }, 500);
+// });
 
-$headerSearchForm.children('input[type="text"]').on('blur', function () {
-  $body.removeClass('header-search-form-active');
-});
-
+// $headerSearchForm.children('input[type="text"]').on('blur', function () {
+//   $body.removeClass('header-search-form-active');
+// });
 
 
 // Fixed Header Main Nav

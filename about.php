@@ -114,7 +114,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="Scripts/jquery.flexslider-min.js"></script>
 <script src="Scripts/jquery.waypoints.min.js"></script>
-<script src="Scripts/wiwet.template.js"></script>
+<script src="Scripts/script.js"></script>
 <script type="text/javascript" src="Scripts/site.js"></script>
     
 </body>

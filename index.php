@@ -17,7 +17,7 @@
       
     </div>
     <!--menu:start-->
-    <nav class="header-main-nav hidden-xs">
+    <nav id="navBar" class="header-main-nav hidden-xs">
         <div class="container">
             <ul class="nav">
                 <li><a href="/">Home</a></li>
@@ -27,7 +27,7 @@
                 <li><a href="/team.php">Team</a></li>             
             </ul>
         </div>
-        <h1 id="mainTitle">LeeBoyz Developerz</h1>
+        
     </nav> <!-- end .header-main-nav -->
     <!--menu:end-->
 </header> <!-- end #header .header -->
@@ -45,7 +45,7 @@
         <li><a href="/Home/Services">Services</a></li>        
         <li><a href="/Home/Team">Team</a></li>  
     </ul>
-    <h1 id="mainTitle">LeeBoyz Developerz</h1>
+    <!-- <h1 id="mainTitle">LeeBoyz Developerz</h1> -->
 </nav> <!-- end .mobile-main-nav -->
 <!--menu-mobile:end-->
         
@@ -307,7 +307,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="Scripts/jquery.flexslider-min.js"></script>
 <script src="Scripts/jquery.waypoints.min.js"></script>
-<script src="Scripts/wiwet.template.js"></script>
+<script src="Scripts/script.js"></script>
 <script type="text/javascript" src="Scripts/site.js"></script>
     
     
