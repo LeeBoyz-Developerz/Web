@@ -39,7 +39,6 @@ Main header
 #mainTitle {
 
     text-align: center;
-    border: black 1px solid;
     color: white;
     font-size: 8em;
     position: relative;
@@ -77,14 +76,16 @@ Header and Navigation
 
 **********************************************/
 
-header nav {
+
+
+.nav {
 
     text-align: center;
     
     
 }
 
-header nav ul {
+.nav ul {
 
     list-style: none;
     margin: 0 10px;
@@ -92,26 +93,23 @@ header nav ul {
     
 }
 
-header nav li {
+.nav li {
 
     display: inline-block;
 
 }
 
-header nav a {
+.nav a {
 
     font-weight: 800;
     padding: 15px 40px;
     text-decoration: none;
-    border: red 1px solid;
     position: relative;
     bottom: 150px;
     color: white;
     
 
 }
-
-
 
 /*******************************************
 
@@ -236,8 +234,7 @@ Footer styles
     position: relative;
     top: 30px;
     font-size: 22px;
-    border: 1px solid red;
-
+    
 }
 
 

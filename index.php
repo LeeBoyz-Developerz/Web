@@ -4,20 +4,7 @@
     <title>
         Home LeeBoyz Developerz
     </title>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Mango Template" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="css/animate.min.css">
-<link rel="stylesheet" href="css/wiwet.style.css">
-<link href="css/main.css" rel="stylesheet" />
-<link rel="stylesheet" href="site.css">
-    
-    
-
-     
+    <?php include("include/header.html"); ?>
 </head>
 <body class="home-page">
     <div id="main-wrapper" class="animate" data-animation="fadeIn">

@@ -2266,6 +2266,7 @@ html[xmlns] .flexslider .slides {
 .header-search-form input[type="submit"]:hover {
   color: #7214ff;
 }
+
 .header-main-nav {
   position: relative;
   display: block;
@@ -2286,7 +2287,7 @@ html[xmlns] .flexslider .slides {
 }
 .header-main-nav ul li a {
   position: relative;
-  display: block;
+  display: inline-block;
   color: #000000;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -2303,7 +2304,7 @@ html[xmlns] .flexslider .slides {
   background: #7214ff;
 }
 .header-main-nav ul li.active a:after {
-  display: block;
+  display: inline-block;
 }
 .header-main-nav-sticky .header-main-nav {
   position: fixed;
@@ -2319,6 +2320,7 @@ html[xmlns] .flexslider .slides {
 .header-main-nav-sticky .header-main-nav a:hover {
   color: #7214ff;
 }
+
 .mobile-main-nav {
   position: fixed;
   z-index: 200;
@@ -2335,7 +2337,7 @@ html[xmlns] .flexslider .slides {
   transition: all 0.3s ease-in-out;
 }
 .mobile-main-nav-active .mobile-main-nav {
-  display: block;
+  display: inline-block;
 }
 .mobile-main-nav .logo {
   position: absolute;
@@ -2354,7 +2356,7 @@ html[xmlns] .flexslider .slides {
   height: 100%;
 }
 .mobile-main-nav ul li {
-  display: block;
+  display: inline-block;
   min-height: 40px;
 }
 .mobile-main-nav ul li a {
@@ -2525,6 +2527,16 @@ html[xmlns] .flexslider .slides {
   color: #000000;
   text-transform: uppercase;
 }
+
+.theFooter {
+
+  text-align: center;
+  position: relative;
+  top: 30px;
+  font-size: 22px;
+  
+}
+
 @media (max-width: 767px) {
   .footer {
     margin-top: 0;
@@ -4096,3 +4108,4 @@ html[xmlns] .flexslider .slides {
 .pb10 {
   padding-bottom: 10px;
 }
+
