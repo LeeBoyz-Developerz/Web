@@ -1,12 +1,5 @@
-/*
 
-  WIWET.com - ASP.NET Templates
-
-  MANGO Template
-
-*/
 /* Bootstrap v3.3.6 (http://getbootstrap.com) */
-/* Bootstrap Code (Untouched aka Original) */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
@@ -1302,7 +1295,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #7214ff;
+  color: #ded2f1;
   text-decoration: none;
   transition: all 0.15s;
 }

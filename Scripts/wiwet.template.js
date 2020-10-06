@@ -1,8 +1,7 @@
 /*
 
-WIWET.com - ASP.NET Templates
+LeeBoyz Template
 
-MANGO Template
 
 */
 ; (function ($) {
