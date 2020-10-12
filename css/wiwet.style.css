@@ -1787,8 +1787,9 @@ html[xmlns] .flexslider .slides {
 
   text-align: center;
   position: relative;
-  top: 30px;
-  font-size: 22px;
+  top: 0px;
+  font-size: 25px;
+  color: black;
   
 }
 
