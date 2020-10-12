@@ -83,21 +83,6 @@
                         <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </article> <!-- end .about-post-item -->
-                <article class="about-post-item animate" data-animation="fadeIn">
-                    <div class="content-column first">
-                        <span class="number">|||</span>
-                        <h3>Awards</h3>
-                    </div>
-                    <div class="content-column second">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error
-                            sit voluptatem accusantium doloremque lau dantium, totam rem aperiam, eaque ipsa quae.
-                        </p>
-                        <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
-                    </div>
-                </article> <!-- end .about-post-item -->
             </div>
         </div> <!-- end .page-content -->
         <!--content:end-->
