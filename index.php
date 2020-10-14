@@ -40,10 +40,10 @@
     <a href="#" class="mobile-main-nav-close"><span>&times;</span></a> <!-- end .mobile-main-nav-close -->
     <ul class="nav">
         <li><a href="/">Home</a></li>
-        <li><a href="/Home/About">About</a></li>
-        <li><a href="/Home/Pricing">Pricing</a></li>
-        <li><a href="/Home/Services">Services</a></li>        
-        <li><a href="/Home/Team">Team</a></li>  
+        <li><a href="/about.php">About</a></li>
+        <li><a href="/prices.php">Pricing</a></li>
+        <li><a href="/services.php">Services</a></li>        
+        <li><a href="/team.php">Team</a></li>  
     </ul>
     <!-- <h1 id="mainTitle">LeeBoyz Developerz</h1> -->
 </nav> <!-- end .mobile-main-nav -->
@@ -60,7 +60,7 @@
                             <img src="/img/Images/slide-1.jpg" alt="" class="sr-only">
                             
                             <h1>Making your business come to life</h1>
-                            <a href="#" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="/prices.php" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </article> <!-- end .slide-content -->
                 </div>
@@ -72,7 +72,7 @@
                             <img src="/img/Images/slide-2.jpg" alt="" class="sr-only">
                             
                             <h1>     Making good quality Applications for your business</h1>
-                            <a href="#" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="/services.php" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </article> <!-- end .slide-content -->
                 </div>
@@ -83,7 +83,7 @@
                         <div class="container">
                             <img src="/img/Images/slide-3.png" alt="" class="sr-only">                            
                             <h1>     Having your website hosting with us</h1>
-                            <a href="#" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="https://www.secureserver.net/?prog_id=566807" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </article> <!-- end .slide-content -->
                 </div>
@@ -113,18 +113,18 @@
                     <div class="services-item border-on-xs" data-animation="fadeInUp">
                         <h3><a href="#">Photography</a></h3>
                         <i class="icon fa fa-camera-retro"></i>
-                        <p>We offer good quality photos for your family or love ones.</p>
+                        <p>We offer good quality photos for your family, and love ones.</p>
                         <span class="number">|</span>
-                        <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="/services.php" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->
                 </div>
                 <div class="col-sm-4">
                     <div class="services-item" data-animation="fadeInUp" data-animation-delay="500">
                         <h3><a href="#">Domain Services</a></h3>
                         <i class="icon fa fa-print"></i>
-                        <p>We do hosting services for any type of website you desire.</p>
+                        <p>We offer hosting services and domain name.</p>
                         <span class="number">||</span>
-                        <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="https://www.secureserver.net/?prog_id=566807" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->
                 </div>
                 <div class="col-sm-4">
@@ -133,7 +133,7 @@
                         <i class="icon fa fa-picture-o"></i>
                         <p>We build quality websites on your desire</p>
                         <span class="number">|||</span>
-                        <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="/services.php" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->
                 </div>
             </section>
@@ -141,7 +141,7 @@
             <section class="about">
                 <h2 class="h1 animate" data-animation="fadeIn">Who we are</h2>
                 <p class="text-center mb70 hidden-xs animate" data-animation="fadeIn">
-                    We are a Software company that create good quality website and mobile application. We also host website, photography, and SEO makerting.
+                    We are a Software company that create good quality websites and mobile applications. We also host websites, photography, and Search engine optimization(SEO) makerting.
                 </p>
                 <div class="row animate-multiple">
                     <div class="col-sm-4">

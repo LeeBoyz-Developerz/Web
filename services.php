@@ -36,11 +36,11 @@
     </a> <!-- end .logo -->
     <a href="#" class="mobile-main-nav-close"><span>&times;</span></a> <!-- end .mobile-main-nav-close -->
     <ul class="nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/Home/About">About</a></li>
-        <li><a href="/Home/Pricing">Pricing</a></li>
-        <li><a href="/Home/Services">Services</a></li>        
-        <li><a href="/Home/Team">Team</a></li>  
+    <li><a href="/">Home</a></li>
+                <li><a href="/about.php">About</a></li>
+                <li><a href="/prices.php">Pricing</a></li>
+                <li><a href="/services.php">Services</a></li>                
+                <li><a href="/team.php">Team</a></li>    
     </ul>    
 </nav> <!-- end .mobile-main-nav -->
 <!--menu-mobile:end-->
@@ -53,7 +53,9 @@
         <div class="page-content">
             <div class="page-header">
                 <h1 class="animate" data-animation="fadeIn">Services</h1>
-                <p class="animate" data-animation="fadeIn">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas atque fugiat, sequi, odit quia non natus? Libero inventore ullam omnis! Minus cum, quo totam eligendi provident hic incidunt dolores amet.</p>
+                <p class="animate" data-animation="fadeIn">Below are some of our services, but not limited to that 
+                    if you have any additional needs. Please be sure to get in contact with us; we wil love to help!
+                </p>
             </div>
              <!-- Services -->
              <section class="row animate-multiple">
@@ -61,18 +63,18 @@
                     <div class="services-item border-on-xs" data-animation="fadeInUp">
                         <h3><a href="#">Photography</a></h3>
                         <i class="icon fa fa-camera-retro"></i>
-                        <p>We offer good quality photos for your family or love ones.</p>
+                        <p>We offer good quality photos for your family and love ones.</p>
                         <span class="number">|</span>
-                        <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="/" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->
                 </div>
                 <div class="col-sm-4">
                     <div class="services-item" data-animation="fadeInUp" data-animation-delay="500">
                         <h3><a href="#">Domain Services</a></h3>
                         <i class="icon fa fa-print"></i>
-                        <p>We do hosting services for any type of website you desire.</p>
+                        <p> Having your website hosting with us</p>
                         <span class="number">||</span>
-                        <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="https://www.secureserver.net/?prog_id=566807" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->
                 </div>
                 <div class="col-sm-4">
@@ -81,7 +83,7 @@
                         <i class="icon fa fa-picture-o"></i>
                         <p>We build quality websites on your desire</p>
                         <span class="number">|||</span>
-                        <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="/" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->
                 </div>
             </section>

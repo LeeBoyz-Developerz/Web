@@ -1397,7 +1397,7 @@ html[xmlns] .flexslider .slides {
   overflow: hidden;
 }
 .flex-direction-nav a:hover {
-  color: #7214ff;
+  color: #0058a6;
 }
 .flex-direction-nav a:before {
   font-family: 'FontAwesome';
@@ -1440,7 +1440,7 @@ html[xmlns] .flexslider .slides {
   text-decoration: none;
 }
 .header a:hover {
-  color: #7214ff;
+  color: #0058a6;
 }
 .header-logo {
   position: relative;
@@ -1521,7 +1521,7 @@ html[xmlns] .flexslider .slides {
   outline: 0;
   background: none;
 }
-.header-search-form input[type="submit"] {
+/* .header-search-form input[type="submit"] {
   position: absolute;
   top: 0;
   right: 0;
@@ -1538,10 +1538,10 @@ html[xmlns] .flexslider .slides {
   font-size: 22px;
   color: #000000;
   transition: all 0.15s;
-}
-.header-search-form input[type="submit"]:hover {
-  color: #7214ff;
-}
+} */
+/* .header-search-form input[type="submit"]:hover {
+  color: #0058a6;
+} */
 
 .header-main-nav {
   position: relative;
@@ -1826,7 +1826,7 @@ html[xmlns] .flexslider .slides {
 }
 .read-more:hover {
   text-decoration: none;
-  color: #7214ff;
+  color: 	#8B4513;
 }
 .read-more .fa {
   position: relative;
@@ -1842,7 +1842,7 @@ html[xmlns] .flexslider .slides {
   box-shadow: 0 2px 0 0 rgba(0, 1, 1, 0.05);
   padding: 30px;
   text-align: center;
-  border-top: 4px solid #7214ff;
+  border-top: 4px solid	#8B4513;
   padding: 40px;
   margin-bottom: 20px;
 }
@@ -1885,7 +1885,7 @@ html[xmlns] .flexslider .slides {
   transition: all 0.45s ease-in-out;
 }
 .services-item:hover .icon {
-  color: #7214ff;
+  color:	#8B4513;
 }
 .services-item .number {
   font-size: 50px;
