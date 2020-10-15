@@ -34,11 +34,11 @@
     </a> <!-- end .logo -->
     <a href="#" class="mobile-main-nav-close"><span>&times;</span></a> <!-- end .mobile-main-nav-close -->
     <ul class="nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/Home/About">About</a></li>
-        <li><a href="/Home/Pricing">Pricing</a></li>
-        <li><a href="/Home/Services">Services</a></li>        
-        <li><a href="/Home/Team">Team</a></li>  
+    <li><a href="/">Home</a></li>
+        <li><a href="/about.php">About</a></li>
+        <li><a href="/prices.php">Pricing</a></li>
+        <li><a href="/services.php">Services</a></li>                
+        <li><a href="/team.php">Team</a></li>  
     </ul>
 </nav> <!-- end .mobile-main-nav -->
 <!--menu-mobile:end-->
@@ -57,7 +57,7 @@
                     <div class="col-sm-4">
                         <div class="pricing-item" data-animation="fadeInUp" data-animation-delay="750">
                             <h4>Custom Website</h4>
-                            <span class="price">$2200</span>
+                            <!-- <span class="price">$2200</span> -->
                             <!-- <span class="payment-period">per month</span> -->
                             <table>
                                 <tbody>
@@ -83,13 +83,13 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a>
+                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
                         </div> <!-- end .pricing-item -->
                     </div>
                     <div class="col-sm-4">
                         <div class="pricing-item featured" data-animation="fadeInUp">
                             <h4>Standard WordPress</h4>
-                            <span class="price">$1300</span>
+                            <!-- <span class="price">$1300</span> -->
                             <!-- <span class="payment-period">per month</span> -->
                             <table>
                                 <tbody>
@@ -115,13 +115,13 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a>
+                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
                         </div> <!-- end .pricing-item -->
                     </div>
                     <div class="col-sm-4">
                         <div class="pricing-item" data-animation="fadeInUp" data-animation-delay="1500">
                             <h4>E-Commerce</h4>
-                            <span class="price">$3999</span>
+                            <!-- <span class="price">$3999</span> -->
                             <!-- <span class="payment-period">per month</span> -->
                             <table>
                                 <tbody>
@@ -152,7 +152,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a>
+                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
                         </div> <!-- end .pricing-item -->
                     </div>
                 </div>
@@ -206,17 +206,8 @@
 <script src="Scripts/jquery.flexslider-min.js"></script>
 <script src="Scripts/jquery.waypoints.min.js"></script>
 <script src="Scripts/script.js"></script>
-<script type="text/javascript" src="Scripts/site.js"></script>
-    
+<script type="text/javascript" src="Scripts/site.js"></script>   
 </body>
 </html>
 
-
-
-
-
-     
-        <div id="wrapper">
-            
-        </div>
      

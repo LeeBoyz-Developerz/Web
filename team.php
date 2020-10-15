@@ -36,10 +36,10 @@
     <a href="#" class="mobile-main-nav-close"><span>&times;</span></a> <!-- end .mobile-main-nav-close -->
     <ul class="nav">
         <li><a href="/">Home</a></li>
-        <li><a href="/Home/About">About</a></li>
-        <li><a href="/Home/Pricing">Pricing</a></li>
-        <li><a href="/Home/Services">Services</a></li>        
-        <li><a href="/Home/Team">Team</a></li>  
+        <li><a href="/about.php">About</a></li>
+        <li><a href="/prices.php">Pricing</a></li>
+        <li><a href="/services.php">Services</a></li>                
+        <li><a href="/team.php">Team</a></li> 
     </ul>    
 </nav> <!-- end .mobile-main-nav -->
 <!--menu-mobile:end-->
@@ -52,7 +52,9 @@
         <div class="page-content">
             <div class="page-header">
                 <h1 class="animate" data-animation="fadeIn">Team</h1>
-                <p class="animate" data-animation="fadeIn">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas atque fugiat, sequi, odit quia non natus? Libero inventore ullam omnis! Minus cum, quo totam eligendi provident hic incidunt dolores amet.</p>
+                <p class="animate" data-animation="fadeIn">Out team are dedicate to fufil your dreams. We have diversity
+                    of culture talents, and creativity, but with the mission.
+                </p>
             </div>
             <div class="row animate-multiple">
             <div class="col-sm-4">
