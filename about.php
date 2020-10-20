@@ -3,7 +3,7 @@
     <head>
     <?php include("include/header.html"); ?>
     </head>
-    <body>
+    <body class="about">
     <div id="main-wrapper" class="animate" data-animation="fadeIn">
           <!-- Header -->
 <header id="header" class="header">

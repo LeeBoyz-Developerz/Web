@@ -4,7 +4,7 @@
 
                 <?php include("include/header.html"); ?>
                  
-<body>
+<body class="teams">
     <div id="main-wrapper" class="animate" data-animation="fadeIn">
           <!-- Header -->
 <header id="header" class="header">

@@ -3,7 +3,7 @@
 <head id="Head">
 <?php include("include/header.html"); ?>
 </head>
-<body>
+<body class="price">
     <div id="main-wrapper" class="animate" data-animation="fadeIn">
           <!-- Header -->
 <header id="header" class="header">     
@@ -83,7 +83,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
+                            <a href="https://form.jotform.com/202837473675162" class="btn btn-primary">Form <i class="fa fa-shopping-cart"></i></a>
                         </div> <!-- end .pricing-item -->
                     </div>
                     <div class="col-sm-4">
@@ -115,7 +115,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
+                            <a href="https://form.jotform.com/202837473675162" class="btn btn-primary">Form <i class="fa fa-shopping-cart"></i></a>
                         </div> <!-- end .pricing-item -->
                     </div>
                     <div class="col-sm-4">
@@ -152,7 +152,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
+                            <a href="https://form.jotform.com/202837473675162" class="btn btn-primary">Form <i class="fa fa-shopping-cart"></i></a>
                         </div> <!-- end .pricing-item -->
                     </div>
                 </div>

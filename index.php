@@ -92,7 +92,7 @@
     </div>
     <div class="bottom-description">
         <span class="icon"></span>
-        <h5><a href="Home/Services">See Our Services</a></h5>
+        <h5><a href="/services.php">See Our Services</a></h5>
     </div> <!-- end .bottom-description -->
     <div class="container slider-controls-container">
         <div class="slider-controls">
@@ -194,13 +194,13 @@
                     <div class="col-sm-4">
                         <div class="pricing-item" data-animation="fadeInUp" data-animation-delay="750">
                             <h4>Custom Website</h4>
-                            <span class="price">$2200</span>
+                            <!-- <span class="price">$2200</span> -->
                             <!-- <span class="payment-period">per month</span> -->
                             <table>
                                 <tbody>
                                     <tr>
                                         <td>Domain</td>
-                                        <td></td>
+                                        <td>$16.99/mon</td>
                                     </tr>
                                     <tr>
                                         <td>Logo</td>
@@ -220,19 +220,19 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a>
+                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
                         </div> <!-- end .pricing-item -->
                     </div>
                     <div class="col-sm-4">
                         <div class="pricing-item featured" data-animation="fadeInUp">
                             <h4>Standard WordPress</h4>
-                            <span class="price">$1300</span>
+                            <!-- <span class="price">$1300</span> -->
                             <!-- <span class="payment-period">per month</span> -->
                             <table>
                                 <tbody>
                                 <tr>
                                         <td>Domain</td>
-                                        <td></td>
+                                        <td>$16.99/mon</td>
                                     </tr>
                                     <tr>
                                         <td>Logo</td>
@@ -252,19 +252,19 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a>
+                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
                         </div> <!-- end .pricing-item -->
                     </div>
                     <div class="col-sm-4">
                         <div class="pricing-item" data-animation="fadeInUp" data-animation-delay="1500">
                             <h4>E-Commerce</h4>
-                            <span class="price">$3999</span>
+                            <!-- <span class="price">$3999</span> -->
                             <!-- <span class="payment-period">per month</span> -->
                             <table>
                                 <tbody>
                                 <tr>
                                         <td>Domain</td>
-                                        <td></td>
+                                        <td>$16.99/mon</td>
                                     </tr>
                                     <tr>
                                         <td>Logo</td>
@@ -289,7 +289,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a>
+                            <!-- <a href="#" class="btn btn-primary">Order Now <i class="fa fa-shopping-cart"></i></a> -->
                         </div> <!-- end .pricing-item -->
                     </div>
                 </div>

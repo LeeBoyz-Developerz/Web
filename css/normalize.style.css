@@ -1017,25 +1017,25 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #7214ff;
+  background-color: #8B4513;
   border-color: #2e6da4;
 }
 .btn-primary:focus,
 .btn-primary.focus {
   color: #ffffff;
-  background-color: #5a00e0;
+  background-color: #8B4513;
   border-color: #122b40;
 }
 .btn-primary:hover {
   color: #ffffff;
-  background-color: #5a00e0;
+  background-color: #8B4513;
   border-color: #204d74;
 }
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #5a00e0;
+  background-color: #8B4513;
   border-color: #204d74;
 }
 .btn-primary:active:hover,
@@ -1048,7 +1048,7 @@ fieldset[disabled] .btn-default.focus {
 .btn-primary.active.focus,
 .open > .dropdown-toggle.btn-primary.focus {
   color: #ffffff;
-  background-color: #4b00bc;
+  background-color: #8B4513;
   border-color: #122b40;
 }
 .btn-primary:active,
@@ -1065,11 +1065,11 @@ fieldset[disabled] .btn-primary:focus,
 .btn-primary.disabled.focus,
 .btn-primary[disabled].focus,
 fieldset[disabled] .btn-primary.focus {
-  background-color: #7214ff;
+  background-color: #8B4513;
   border-color: #2e6da4;
 }
 .btn-primary .badge {
-  color: #7214ff;
+  color: #8B4513;
   background-color: #ffffff;
 }
 .btn-success {
@@ -1696,7 +1696,7 @@ html[xmlns] .flexslider .slides {
 .mobile-main-nav-open:hover span,
 .mobile-main-nav-open:hover span:before,
 .mobile-main-nav-open:hover span:after {
-  background:#0058a6 #7214ff;
+  background:#0058a6;
 }
 .mobile-main-nav-close {
   position: absolute;
@@ -2061,7 +2061,7 @@ html[xmlns] .flexslider .slides {
   font-size: 12px;
   color: #000000;
 } */
-/* .blog-post-item h3 {
+ .blog-post-item h3 {
   margin: 10px 0;
   text-align: left;
   font-size: 26px;
@@ -2078,7 +2078,7 @@ html[xmlns] .flexslider .slides {
 
 /* About Post Item */
 /* ======================== */
-/* .about-post-item {
+.about-post-item { 
   position: relative;
   display: table;
   width: 100%;
@@ -2180,6 +2180,7 @@ html[xmlns] .flexslider .slides {
   width: 100%;
 }
 .home-page-slider .slide {
+  background-image: url(../img/LeftWhite.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2293,7 +2294,7 @@ html[xmlns] .flexslider .slides {
 .home-page .header .header-search-button:hover,
 .home-page .header .header-login-button:hover:before,
 .home-page .header .header-search-button:hover:before {
-  color: #7214ff;
+  color: #0058a6;;
 }
 .home-page .header .header-search-form {
   z-index: 100;
@@ -2305,7 +2306,7 @@ html[xmlns] .flexslider .slides {
   color: #ffffff;
 }
 .home-page .header .header-search-form input[type="submit"]:hover {
-  color: #7214ff;
+  color: #0058a6;;
 }
 .home-page .header .header-main-nav {
   z-index: 100;
@@ -2327,7 +2328,7 @@ html[xmlns] .flexslider .slides {
 .home-page .header .mobile-main-nav-open:hover span,
 .home-page .header .mobile-main-nav-open:hover span:before,
 .home-page .header .mobile-main-nav-open:hover span:after {
-  background: #7214ff;
+  background: #0058a6;;
 }
 .home-page #page-content {
   position: relative;
@@ -2349,22 +2350,6 @@ html[xmlns] .flexslider .slides {
   padding: 30px;
   padding: 0 50px;
 }
-<<<<<<< HEAD:css/normalize.style.css
-@media (max-width: 1539px) {
-  .about-page .about-posts-container {
-    padding: 0;
-  }
-}
-@media (max-width: 991px) {
-  .about-page .about-posts-container {
-    background: none;
-    border-radius: 0;
-    box-shadow: none;
-    padding: 0;
-  }
-}
-=======
->>>>>>> f3d08363d11e0387d7ee330a7c0fd13828ffe1da:css/wiwet.style.css
 
 /* UI Elements Page */
 /* ======================== */
