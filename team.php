@@ -100,7 +100,7 @@
                     <div class="team-item" data-animation="fadeInUp" data-animation-delay="1500">
                         <img src="/img/Images/user-4.png" alt="" class="thumbnail">
                         <h4>Mc Dad Louigene</h4>
-                        <h5>Freelance Photographer</h5>
+                        <h5>Photographer</h5>
                         <ul class="social-icons">
                             <li><a href="#" class="fa fa-facebook"></a></li>
                             <li><a href="#" class="fa fa-intasgram"></a></li>
@@ -112,7 +112,7 @@
                     <div class="team-item" data-animation="fadeInUp" data-animation-delay="2000">
                         <img src="/img/Images/user-5.png" alt="" class="thumbnail">
                         <h4>Isabel Vargas</h4>
-                        <h5>Developer</h5>
+                        <h5>Software Developer</h5>
                         <!-- <ul class="social-icons">
                             <li><a href="#" class="fa fa-facebook"></a></li>
                             <li><a href="#" class="fa fa-twitter"></a></li>
@@ -122,9 +122,9 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-item" data-animation="fadeInUp" data-animation-delay="2500">
-                        <img src="/img/Images/user-6.png" alt="" class="thumbnail">
+                        <img src="/img/Images/isa.jpg" alt="" class="thumbnail">
                         <h4>Isa Sthormes</h4>
-                        <h5>Consultant</h5>
+                        <h5>Chief Sales Officer</h5>
                         <ul class="social-icons">
                             <li><a href="#" class="fa fa-facebook"></a></li>
                             <li><a href="#" class="fa fa-twitter"></a></li>
