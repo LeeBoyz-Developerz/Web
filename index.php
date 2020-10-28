@@ -6,66 +6,63 @@
     </title>
     <?php include("include/header.html"); ?>
 </head>
-<body class="home-page">
-    <div id="main-wrapper" class="animate" data-animation="fadeIn">
-         <!-- Header -->
-<header id="header" class="header">
-    <div class="container">
-        <a href="/" class="header-logo">
-            <img src="/Content/Images/header-logo-white.png" alt="">
-        </a> <!-- end .header-logo -->
+    <body class="home-page">
+        <div id="main-wrapper" class="animate" data-animation="fadeIn">
+             <!-- Header -->
+            <header id="header" class="header">
+                <div class="container">
+                    <a href="/" class="header-logo">
+                        <img src="/Content/Images/header-logo-white.png" alt="">
+                    </a> <!-- end .header-logo -->
       
-    </div>
-    <!--menu:start-->
-    <nav id="navBar" class="header-main-nav hidden-xs">
-        <div class="container">
-            <ul class="nav">
-                <li><a href="/">Home</a></li>
-                <li><a href="/about.php">About</a></li>
-                <li><a href="/prices.php">Pricing</a></li>
-                <li><a href="/services.php">Services</a></li>                
-                <li><a href="/team.php">Team</a></li>             
-            </ul>
-        </div>
-        
-    </nav> <!-- end .header-main-nav -->
-    <!--menu:end-->
-</header> <!-- end #header .header -->
-<!-- Mobile Nav -->
-<!--menu-mobile:start-->
-<nav class="mobile-main-nav">
-    <a href="/" class="logo">
-        <img src="/Content/Images/header-logo-white.png" alt="">
-    </a> <!-- end .logo -->
-    <a href="#" class="mobile-main-nav-close"><span>&times;</span></a> <!-- end .mobile-main-nav-close -->
-    <ul class="nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/about.php">About</a></li>
-        <li><a href="/prices.php">Pricing</a></li>
-        <li><a href="/services.php">Services</a></li>        
-        <li><a href="/team.php">Team</a></li>  
-    </ul>
-    <!-- <h1 id="mainTitle">LeeBoyz Developerz</h1> -->
-</nav> <!-- end .mobile-main-nav -->
-<!--menu-mobile:end-->
-        
- <!-- Home Page Slider -->
-<section class="home-page-slider">
-    <div class="flexslider">
-        <ul class="slides">
-            <li>
-                <div class="slide" data-background-image="/img/Images/slide-1.png">
-                    <article class="slide-content">
-                        <div class="container">
-                            <img src="/img/Images/slide-1.jpg" alt="" class="sr-only">
-                            
-                            <h1>Making your business come to life</h1>
-                            <a href="/prices.php" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
-                        </div>
-                    </article> <!-- end .slide-content -->
                 </div>
-            </li>
-            <li>
+        <!--menu:start-->
+                <nav id="navBar" class="header-main-nav hidden-xs">
+                    <div class="container">
+                        <ul class="nav">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/about.php">About</a></li>
+                            <li><a href="/prices.php">Pricing</a></li>
+                            <li><a href="/services.php">Services</a></li>                
+                            <li><a href="/team.php">Team</a></li>             
+                        </ul>
+                    </div>
+                </nav> <!-- end .header-main-nav -->
+            <!--menu:end-->
+            </header> <!-- end #header .header -->
+        <!-- Mobile Nav -->
+        <!--menu-mobile:start-->
+            <nav class="mobile-main-nav">
+                <a href="/" class="logo">
+                    <img src="/Content/Images/header-logo-white.png" alt="">
+                </a> <!-- end .logo -->
+                <a href="#" class="mobile-main-nav-close"><span>&times;</span></a> <!-- end .mobile-main-nav-close -->
+                <ul class="nav">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about.php">About</a></li>
+                    <li><a href="/prices.php">Pricing</a></li>
+                    <li><a href="/services.php">Services</a></li>        
+                    <li><a href="/team.php">Team</a></li>  
+                </ul>
+                <!-- <h1 id="mainTitle">LeeBoyz Developerz</h1> -->
+            </nav> <!-- end .mobile-main-nav -->
+        <!--menu-mobile:end-->
+        <!-- Home Page Slider -->
+        <section class="home-page-slider">
+            <div class="flexslider">
+                <ul class="slides">
+                    <li>
+                        <div class="slide" data-background-image="/img/Images/slide-1.png">
+                            <article class="slide-content">
+                                <div class="container">
+                                    <img src="/img/Images/slide-1.jpg" alt="" class="sr-only">
+                                    <h1>Making your business come to life</h1>
+                                    <a href="/prices.php" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
+                                </div>
+                            </article> <!-- end .slide-content -->
+                        </div>
+                    </li>
+                <li>
                 <div class="slide" data-background-image="/img/Images/slide-2.png">
                     <article class="slide-content">
                         <div class="container">
@@ -77,23 +74,18 @@
                     </article> <!-- end .slide-content -->
                 </div>
             </li>
-            <li>
-                <div class="slide" data-background-image="/img/Images/slide-3.png">
-                    <article class="slide-content">
-                        <div class="container">
-                            <img src="/img/Images/slide-3.png" alt="" class="sr-only">                            
-                            <h1>     Having your website hosting with us</h1>
-                            <a href="https://www.secureserver.net/?prog_id=566807" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
-                        </div>
-
-                 
-                
-        
-
-                    </article> <!-- end .slide-content -->
-                </div>
-            </li>           
-        </ul>
+                <li>
+                    <div class="slide" data-background-image="/img/Images/slide-3.png">
+                        <article class="slide-content">
+                            <div class="container">
+                                <img src="/img/Images/slide-3.png" alt="" class="sr-only">                            
+                                <h1>     Having your website hosting with us</h1>
+                                <a href="https://www.secureserver.net/?prog_id=566807" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right"></i></a>
+                            </div>
+                        </article> <!-- end .slide-content -->
+                    </div>
+                </li>           
+            </ul>
     </div>
     <div class="bottom-description">
         <span class="icon"></span>
@@ -299,23 +291,18 @@
                     </div>
                 </div>
             </section>
-
         <!--content:end-->
     </div>
 </div> <!-- end #page-content -->
-<footer class="main-footer">
-            <?php include("include/footer.html") ?>
-        </footer>
-
+    <footer class="main-footer">
+        <?php include("include/footer.html") ?>
+    </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="~/Content/Scripts/jquery-2.1.4.min.js">\x3C/script>')</script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<script src="Scripts/jquery.flexslider-min.js"></script>
-<script src="Scripts/jquery.waypoints.min.js"></script>
-<script src="Scripts/script.js"></script>
-<script type="text/javascript" src="Scripts/site.js"></script>
-    
-    
-
+    <script>window.jQuery || document.write('<script src="~/Content/Scripts/jquery-2.1.4.min.js">\x3C/script>')</script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="Scripts/jquery.flexslider-min.js"></script>
+    <script src="Scripts/jquery.waypoints.min.js"></script>
+    <script src="Scripts/script.js"></script>
+    <script type="text/javascript" src="Scripts/site.js"></script>
 </body>
 </html>
