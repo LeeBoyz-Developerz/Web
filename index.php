@@ -19,6 +19,9 @@
         <!--menu:start-->
                 <nav id="navBar" class="header-main-nav hidden-xs">
                     <div class="container">
+                        <div id="titleOne">
+                            <h1>>_Leeboyz Developerz</h1>
+                        </div>
                         <ul class="nav">
                             <li><a href="/">Home</a></li>
                             <li><a href="/about.php">About</a></li>
