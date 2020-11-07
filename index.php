@@ -113,7 +113,7 @@
                     <div class="services-item border-on-xs" data-animation="fadeInUp">
                         <h3><a href="#">Photography</a></h3>
                         <i class="icon fa fa-camera-retro"></i>
-                        <p>We offer good quality photos for your family, and love ones.</p>
+                        <p>We offer great quality photos</p>
                         <span class="number">|</span>
                         <a href="/services.php" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->
@@ -282,10 +282,6 @@
                                         <td>Pages</td>
                                         <td>1-5</td>
 
-                                    </tr>
-                                    <tr>
-                                        <td>Products</td>
-                                        <td>1-20</td>
                                     </tr>
                                 </tbody>
                             </table>
