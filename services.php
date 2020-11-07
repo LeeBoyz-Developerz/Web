@@ -12,7 +12,7 @@
     <div class="container">
         <a href="/" class="header-logo">
             <img src="/Content/Images/header-logo-black.png" alt="">
-        </a> <!-- end .header-logo --> >
+        </a> <!-- end .header-logo --> 
     </div>
     <!--menu:start-->
     <nav class="header-main-nav hidden-xs">
@@ -63,7 +63,7 @@
                     <div class="services-item border-on-xs" data-animation="fadeInUp">
                         <h3><a href="#">Photography</a></h3>
                         <i class="icon fa fa-camera-retro"></i>
-                        <p>We offer good quality photos for your family and love ones.</p>
+                        <p>We offer great quality photos</p>
                         <span class="number">|</span>
                         <a href="/" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div> <!-- end .services-item -->

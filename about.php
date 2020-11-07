@@ -60,10 +60,7 @@
                     </div>
                     <div class="content-column second">
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                            fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error
-                            sit voluptatem accusantium doloremque lau dantium, totam rem aperiam, eaque ipsa quae.
+                            We are a remote software company that specializes in creating professional websites, mobile applications, and domain hosting.
                         </p>
                         <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div>
@@ -75,10 +72,9 @@
                     </div>
                     <div class="content-column second">
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut
-                            perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem aperiam, eaque ipsa quae.
+                            Our mission is to help you build that site you been dreaming off. Want to get your bussiness going and 
+                            need a site, then you are on the right place. Have an idea but don't have the income we can make your idea 
+                            come to life.
                         </p>
                         <a href="#" class="read-more">Read More <i class="fa fa-long-arrow-right"></i></a>
                     </div>

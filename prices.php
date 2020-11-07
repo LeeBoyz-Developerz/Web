@@ -146,10 +146,6 @@
                                         <td>1-5</td>
 
                                     </tr>
-                                    <tr>
-                                        <td>Products</td>
-                                        <td>1-20</td>
-                                    </tr>
                                 </tbody>
                             </table>
                             <a href="https://form.jotform.com/202837473675162" class="btn btn-primary">Form <i class="fa fa-shopping-cart"></i></a>
@@ -164,28 +160,28 @@
                     <div class="icon-box-item" data-animation="fadeInUp">
                         <i class="icon fa fa-commenting-o"></i>
                         <h4>Advantages</h4>
-                        <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentences.</p>
+                        <p>Competitive prices</p>
                     </div> <!-- end .services-item -->
                 </div>
                 <div class="col-md-3 col-xs-6 col-xxs-12">
                     <div class="icon-box-item" data-animation="fadeInUp" data-animation-delay="500">
                         <i class="icon fa fa-pencil"></i>
                         <h4>Advantages</h4>
-                        <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentences.</p>
+                        <p>We host your site</p>
                     </div> <!-- end .services-item -->
                 </div>
                 <div class="col-md-3 col-xs-6 col-xxs-12">
                     <div class="icon-box-item" data-animation="fadeInUp" data-animation-delay="1000">
                         <i class="icon fa fa-file-text-o"></i>
                         <h4>Advantages</h4>
-                        <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentences.</p>
+                        <p>Make your idea come to life</p>
                     </div> <!-- end .services-item -->
                 </div>
                 <div class="col-md-3 col-xs-6 col-xxs-12">
                     <div class="icon-box-item" data-animation="fadeInUp" data-animation-delay="1500">
                         <i class="icon fa fa-gear"></i>
                         <h4>Advantages</h4>
-                        <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentences.</p>
+                        <p>Outstading quality applications</p>
                     </div> <!-- end .services-item -->
                 </div>
             </div>
